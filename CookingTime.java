@@ -21,8 +21,6 @@ public class CookingTime {
     final float pizzaCookingTime = 0.75f;
     final float subCookingTime = 1;
     final float soupCookingTime = 1.75f;
-    final float twoItemTimeIncrease = 1.5f;
-    final float threeItemTimeIncrease = 2;
 
     try {
       // Input for the type of food
